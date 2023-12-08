@@ -56,7 +56,7 @@ const update = (position, name) => {
  * - Refactor function ke ES6 Arrow Function
  * - Menghapus data fruits.
  *
- * @param {number} position - 
+ * @param {number} position 
  *
  * @hint - Gunakan method splice
  */
